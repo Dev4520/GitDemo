@@ -12,3 +12,4 @@ print("Line6")
 
 # condition for merge conflict is that, the change should coccur in the same file and same line
 
+
